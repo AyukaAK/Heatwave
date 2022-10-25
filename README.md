@@ -2,7 +2,7 @@
 
 Link:  https://ayukaak.github.io/Heatwave/
 
-### Data Analysis/Visualization:
+### Data Visualization:
 Data visualization using Datawrapper, and edited the visuals using Illustrator. Exported them to HTML using AI2HTML.
 
 ### Data Source/Collection:
